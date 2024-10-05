@@ -1,8 +1,8 @@
 ## This is example of event driven nodejs backend. 
-# for faster backend oprations
+for faster backend oprations and low response time to users
 
 
-# How to start service 
+How to start service 
 
 service 1: 
 ```docker run -p 2181:2181 zookeeper```
